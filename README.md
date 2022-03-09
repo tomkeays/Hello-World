@@ -6,4 +6,11 @@ the Git way.
 
 Nothing to see here. Move along.
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 
